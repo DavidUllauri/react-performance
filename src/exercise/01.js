@@ -1,6 +1,8 @@
 // Code splitting
 // http://localhost:3000/isolated/exercise/01.js
 
+// Had extra lessons
+
 import * as React from 'react'
 
 const loadGlobe = () => import('../globe')
